@@ -17,7 +17,9 @@ worth of data, which corresponds to 100,000 8x8 image patches randomly obtained 
 
 ### UNIQUE : UNSUPERVISED IMAGE QUALITY ESTIMATION
 
-![UNIQUE Filters](/Images/Visualization.png)
+The learnt filter weights
+
+![UNIQUE Filters](/Images/Visualization.png)(float: centre)
 
 Paper : [PDF](https://ghassanalregibdotcom.files.wordpress.com/2016/10/temel2016_spl1.pdf)
 Citation : [Bib](https://ghassanalregibdotcom.files.wordpress.com/2016/10/can_spl2016-bib.zip)
