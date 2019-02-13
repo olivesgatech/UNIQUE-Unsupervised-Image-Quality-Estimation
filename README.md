@@ -31,19 +31,6 @@ The results of the algorithm on LIVE, MULTI-LIVE, and TID13 databases :
 
 IEEE link : https://ieeexplore.ieee.org/document/7546870  
 ArXiv Link : https://arxiv.org/abs/1810.06631  
-The [bib](https://ghassanalregibdotcom.files.wordpress.com/2016/10/can_spl2016-bib.zip) file : 
-
-@ARTICLE{7546870,  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    author={D. Temel and M. Prabhushankar and G. AlRegib},   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    journal={IEEE Signal Processing Letters},   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    title={UNIQUE: Unsupervised Image Quality Estimation},   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    year={2016},   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    volume={23},   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    number={10},   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    pages={1414-1418},   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    doi={10.1109/LSP.2016.2601119},   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ISSN={1070-9908},   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    month={Oct},  
-}
+Citation BibTex : https://ghassanalregibdotcom.files.wordpress.com/2016/10/can_spl2016-bib.zip
 
 
