@@ -19,7 +19,7 @@ worth of data, which corresponds to 100,000 8x8 image patches randomly obtained 
 
 The learnt filter weights and the results of the algorithm :
 
-<img style="float: right;" src="whatever.jpg">
+<img style="float: right;" src="/Images/Visualizations.png">
 ![UNIQUE Filters](/Images/Visualization.png)
 ![Results Filters](/Images/Results.png)
 
