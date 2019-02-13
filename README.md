@@ -21,7 +21,8 @@ The learnt filter weights and the results of the algorithm :
 
 <p align="center">
   <img src=/Images/Visualization.png/>
-</p>
+</p>  
+
 ![Results Filters](/Images/Results.png)
 
 ### Citation
