@@ -23,7 +23,6 @@ The learnt filter weights and the results of the algorithm :
   </Images/Visualization.png/>
 </p>  
 
-![UNIQUE Filters](/Images/Visualization.png)  
 ![Results Filters](/Images/Results.png)
 
 ### Citation
