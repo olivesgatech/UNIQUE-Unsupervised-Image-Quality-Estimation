@@ -17,11 +17,13 @@ worth of data, which corresponds to 100,000 8x8 image patches randomly obtained 
 
 ### UNIQUE : UNSUPERVISED IMAGE QUALITY ESTIMATION
 
-The learnt filter weights and the results of the algorithm :
+The learnt filter weights :
 
 <p align="center">
   <img src=/Images/Visualization.png/>
 </p>  
+
+The results of the algorithm on LIVE, MULTI-LIVE, and TID13 databases :  
 
 ![Results Filters](/Images/Results.png)
 
