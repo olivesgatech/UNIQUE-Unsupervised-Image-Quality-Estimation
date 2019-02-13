@@ -1,6 +1,6 @@
 # UNIQUE-Unsupervised-Image-Quality-Estimation
 
-This is a demonstration of the algorithm described in the above mentioned paper. Given an original and a distorted image, UNIQUE gives out a score 
+This is a demonstration of the algorithm described in the paper ["UNIQUE: Unsupervised Image Quality Estimation"](https://ghassanalregibdotcom.files.wordpress.com/2016/10/temel2016_spl1.pdf). Given an original and a distorted image, UNIQUE gives out a score 
 that approximates the perceptual quality of the distorted image. The score lies between 0 and 1 (1 being the best quality).
 
 You can change this program as you like and use it anywhere, but please refer to its original source (cite our paper and our web page at
@@ -19,6 +19,7 @@ worth of data, which corresponds to 100,000 8x8 image patches randomly obtained 
 
 The learnt filter weights and the results of the algorithm :
 
+<img style="float: right;" src="whatever.jpg">
 ![UNIQUE Filters](/Images/Visualization.png)
 ![Results Filters](/Images/Results.png)
 
