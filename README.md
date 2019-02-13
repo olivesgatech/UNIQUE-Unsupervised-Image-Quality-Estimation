@@ -23,6 +23,12 @@ The learnt filter weights :
   <img src=/Images/Visualization.png/>
 </p>  
 
+Applying these weights to original (top) and distorted images (bottom), the obtained feature maps  
+
+<p align="center">
+  <img src=/Images/FeatMap.png/>
+</p>  
+
 The results of the algorithm on LIVE, MULTI-LIVE, and TID13 databases :  
 
 ![Results Filters](/Images/Results.png)
