@@ -3,7 +3,7 @@
 This is a demonstration of the algorithm described in the paper ["UNIQUE: Unsupervised Image Quality Estimation"](https://ghassanalregibdotcom.files.wordpress.com/2016/10/temel2016_spl1.pdf). Given an original and a distorted image, UNIQUE gives out a score 
 that approximates the perceptual quality of the distorted image. The score lies between 0 and 1 (1 being the best quality).
 
-You can change this program as you like and use it anywhere, but please refer to its original source (cite our paper and our web page at
+You can change this program as you like and use it anywhere, but please refer to its original source ([cite](https://ghassanalregibdotcom.files.wordpress.com/2016/10/can_spl2016-bib.zip) our [paper](https://ghassanalregibdotcom.files.wordpress.com/2016/10/temel2016_spl1.pdf) and our web page at
 https://ghassanalregib.com/unique-unsupervised-image-quality-estimation/).
 
 ### Usage :
@@ -22,8 +22,19 @@ The learnt filter weights and the results of the algorithm :
 ![UNIQUE Filters](/Images/Visualization.png)  
 ![Results Filters](/Images/Results.png)
 
+### Citation
 
-Paper : [PDF](https://ghassanalregibdotcom.files.wordpress.com/2016/10/temel2016_spl1.pdf)  
-Citation : [Bib](https://ghassanalregibdotcom.files.wordpress.com/2016/10/can_spl2016-bib.zip)
+@ARTICLE{7546870, 
+author={D. Temel and M. Prabhushankar and G. AlRegib}, 
+journal={IEEE Signal Processing Letters}, 
+title={UNIQUE: Unsupervised Image Quality Estimation}, 
+year={2016}, 
+volume={23}, 
+number={10}, 
+pages={1414-1418}, 
+
+doi={10.1109/LSP.2016.2601119}, 
+ISSN={1070-9908}, 
+month={Oct},}
 
 
