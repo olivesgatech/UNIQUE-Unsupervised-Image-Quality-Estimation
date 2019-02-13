@@ -24,17 +24,16 @@ The learnt filter weights and the results of the algorithm :
 
 ### Citation
 
-@ARTICLE{7546870, 
-author={D. Temel and M. Prabhushankar and G. AlRegib}, 
-journal={IEEE Signal Processing Letters}, 
-title={UNIQUE: Unsupervised Image Quality Estimation}, 
-year={2016}, 
-volume={23}, 
-number={10}, 
-pages={1414-1418}, 
-
-doi={10.1109/LSP.2016.2601119}, 
-ISSN={1070-9908}, 
+@ARTICLE{7546870,  
+author={D. Temel and M. Prabhushankar and G. AlRegib},   
+journal={IEEE Signal Processing Letters},   
+title={UNIQUE: Unsupervised Image Quality Estimation},   
+year={2016},   
+volume={23},   
+number={10},   
+pages={1414-1418},   
+doi={10.1109/LSP.2016.2601119},   
+ISSN={1070-9908},   
 month={Oct},}
 
 
