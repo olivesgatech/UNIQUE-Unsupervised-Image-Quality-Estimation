@@ -38,6 +38,4 @@ The results of the algorithm on LIVE, MULTI-LIVE, and TID13 databases :
 
 IEEE link : https://ieeexplore.ieee.org/document/7546870  
 ArXiv Link : https://arxiv.org/abs/1810.06631  
-Citation BibTex : https://ghassanalregibdotcom.files.wordpress.com/2016/10/can_spl2016-bib.zip
-
 
