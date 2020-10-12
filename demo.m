@@ -9,7 +9,7 @@
 % Demo script. img1 is the original image and img2 is the distorted image.
 % Demo images are provided and read below
 
-img1 = imread('Demo Images/Original Image.bmp');
+img1 = imread('Demo Images/Original Image.BMP');
 img2 = imread('Demo Images/Distorted Image.bmp');
 
 %%
